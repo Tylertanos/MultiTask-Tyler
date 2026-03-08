@@ -32,3 +32,13 @@
  │     └── values/
  │
  └── AndroidManifest.xml
+
+
+
+
+# Developer Layer
+├─ Floating Core (overlay UI)                                                                                                             
+├─ Context Detection                                                                                                                      
+├─ System Monitor                                                                                                                         
+├─ Developer Tools                                                                                                                        
+└─ Automation & Customization                                                                                                             
