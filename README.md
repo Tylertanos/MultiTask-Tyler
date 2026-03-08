@@ -1,9 +1,8 @@
 # MultiTask-Tyler
  An app for multitasking, playing, and many more posibilities if configured or customly designed by others
 # Framework
- MultiTask-Tyler/
-│
-├── app/
+ MultiTask-Tyler/       │
+                        ├── app/
 │   ├── src/main/java/com/multitask/tyler/
 │   │
 │   ├── MainActivity.java
