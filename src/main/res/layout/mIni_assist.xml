@@ -1,0 +1,22 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="70dp"
+    android:layout_height="70dp">
+
+    <ImageView
+        android:id="@+id/assistIcon"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_gravity="center"
+        android:src="@android:drawable/ic_menu_manage"
+        android:background="@android:drawable/dialog_holo_light_frame"/>
+</FrameLayout>
+
+main_panel.xml – expanded panel placeholder:
+
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#AA000000">
+
+    <!-- You can add buttons, menus, dashboard here -->
+</FrameLayout>
