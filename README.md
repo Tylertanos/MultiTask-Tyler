@@ -12,23 +12,23 @@
  │     ├── AppDetectorService.java
  │     ├── ControllerManager.java
  │     ├── GameDetector.java
-│   ├── DecoderManager.java
-│   ├── BootScreenManager.java
-│   │
-│   └── utils/
-│        ├── GitHubLauncher.java
-│        ├── TermuxBridge.java
-│        ├── MacroDroidBridge.java
-│        └── ClipboardAnalyzer.java
-│
-├── res/
-│   ├── layout/
-│   │   ├── floating_tab.xml
-│   │   ├── floating_panel.xml
-│   │   ├── assistant_layout.xml
-│   │   └── main_activity.xml
-│   │
-│   ├── drawable/
-│   └── values/
-│
-└── AndroidManifest.xml
+ │     ├── DecoderManager.java
+ │     ├── BootScreenManager.java
+ │     │
+ │     └── utils/
+ │            ├── GitHubLauncher.java
+ │            ├── TermuxBridge.java
+ │            ├── MacroDroidBridge.java
+ │            └── ClipboardAnalyzer.java
+ │
+ ├── res/
+ │     ├── layout/
+ │     │      ├── floating_tab.xml
+ │     │      ├── floating_panel.xml
+ │     │      ├── assistant_layout.xml
+ │     │      └── main_activity.xml
+ │     │
+ │     ├── drawable/
+ │     └── values/
+ │
+ └── AndroidManifest.xml
