@@ -3,34 +3,37 @@
 # Framework
  MultiTask-Tyler/                                                                                                                           
  │                                                                                                                                         
- ├── app/                                                                                                                                 
- │     ├── src/main/java/com/multitask/tyler/                                                                                            
- │     │                                                                                                                                  
- │     ├── MainActivity.java                                                                                                             
- │     ├── FloatingService.java                                                                                                          
- │     ├── FloatingPanelService.java                                                                                                     
- │     ├── AppDetectorService.java                                                                                                       
- │     ├── ControllerManager.java                                                                                                        
- │     ├── GameDetector.java                                                                                                             
- │     ├── DecoderManager.java                                                                                                           
- │     ├── BootScreenManager.java                                                                                                        
- │     │                                                                                                                                  
- │     └── utils/                                                                                                                        
+ │                                                                                                                                         
+ ├─ src/                                                                                                                                  
+ │    └─ main/                                                                                                                            
+ │        ├─ java/                                                                                                                        
+ │        │    └─ com/Tylertanos/MultiTask/                                                                                              
+ │        │          ├─ MainActivity.java                                                                                                
+ │        │          ├─ OverlayService.java                                                                                              
+ │        │          └─ PanelService.java                                                                                                
+ │        └─ res/                                                                                                                         
+ │             ├─ layout/                                                                                                                 
+ │             │     ├─ mini_assist.xml                                                                                                  
+ │             │     ├─ main_panel.xml                                                                                                   
+ │             │     └─ activity_main.xml                                                                                                
+ │             ├─ drawable/                                                                                                               
+ │             └─ values/                                                                                                                 
+ │                    └─ strings.xml                                                                                                      
+ │                                                                                                                                         
+ ├── Systems/                                                                                                                             
+ │       ├── FloatingService.java                                                                                                        
+ │       ├── FloatingPanelService.java                                                                                                   
+ │       ├── AppDetectorService.java                                                                                                     
+ │       ├── ControllerManager.java                                                                                                      
+ │       ├── GameDetector.java                                                                                                           
+ │       ├── DecoderManager.java                                                                                                         
+ │       ├── BootScreenManager.java                                                                                                      
+ │       │                                                                                                                                
+ │       └── utils/                                                                                                                      
  │            ├── GitHubLauncher.java                                                                                                    
  │            ├── TermuxBridge.java                                                                                                      
  │            ├── MacroDroidBridge.java                                                                                                  
  │            └── ClipboardAnalyzer.java                                                                                                 
- │                                                                                                                                         
- ├── res/                                                                                                                                 
- │     ├── layout/                                                                                                                       
- │     │      ├── floating_tab.xml                                                                                                      
- │     │      ├── floating_panel.xml                                                                                                    
- │     │      ├── assistant_layout.xml                                                                                                  
- │     │      └── main_activity.xml                                                                                                     
- │     │                                                                                                                                  
- │     ├── drawable/                                                                                                                     
- │     └── values/                                                                                                                       
- │                                                                                                                                         
  └── AndroidManifest.xml                                                                                                                  
 
 
